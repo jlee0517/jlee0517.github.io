@@ -26,16 +26,23 @@ Education
 Work Experience
 ======
 - Research Engineer, November 2017 - Present
+
   Arm Research, Austin, TX
 - Silicon Architecture Engineer, September 2013 - November 2017
+
   MIC (Xeon-Phi) Architecture, Intel/PDG, Hillsboro, OR
 - Graduate Research Assistant, 2008 - 2013
+
   Georgia Institute of Technologoy, Atlanta, GA
 - Graduate Intern Technical, May 2012 - August 2012
+
   Platform architecture research group, Intel Labs, Intel, Santa Clara, CA
+  
   Manager: Mani Azimi
 - Graduate Intern Technical, May 2011 - August 2011
+
   Visual and Parallel Computing Group (VPG), Intel, Austin, TX
+  
   Manager: Eric Sprangle
 
 Publications
