@@ -26,8 +26,7 @@ Education
 Work Experience
 ======
 - Research Engineer, November 2017 - Present
-
-  Arm Research, Austin, TX
+  <br>Arm Research, Austin, TX
 - Silicon Architecture Engineer, September 2013 - November 2017
 
   MIC (Xeon-Phi) Architecture, Intel/PDG, Hillsboro, OR
