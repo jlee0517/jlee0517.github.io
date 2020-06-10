@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 Research Engineer at Arm Research
 
 Education
