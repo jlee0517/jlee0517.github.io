@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Jaekyu Lee"
-excerpt: "About me"
+title: "About Me"
+excerpt: "Research Engineer at Arm Research"
 author_profile: true
 redirect_from: 
   - /about/
