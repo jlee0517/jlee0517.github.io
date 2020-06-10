@@ -13,13 +13,20 @@ This is the front page of a website that is powered by the [academicpages templa
 Education
 ======
 - **Georgia Institute of Technology**, Atlanta, GA
--- **Ph.D.** in Computer Science, Fall 2009 - August 2013
---- Thesis Topic: Shared Resource Management for Efficient Heterogeneous Computing
---- Thesis Advisor: Prof. Hyesoon Kim
--- **M.S.** in Computer Science, May 2009
--- Graduate courses
+
+  - **Ph.D.** in Computer Science, Fall 2009 - August 2013
+
+    - Thesis Topic: Shared Resource Management for Efficient Heterogeneous Computing
+
+    - Thesis Advisor: Prof. Hyesoon Kim
+
+  - **M.S.** in Computer Science, May 2009
+
+  - Graduate courses
+
 - **Sogang University**, Seoul, Korea
--- B.S. in Computer Science, February 2007
+
+  - B.S. in Computer Science, February 2007
 
 A data-driven personal website
 ======
