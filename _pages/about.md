@@ -17,7 +17,7 @@ Education
     - Thesis Topic: Shared Resource Management for Efficient Heterogeneous Computing
     - Thesis Advisor: [Prof. Hyesoon Kim](http://cc.gatech.edu/~hyesoon)
   - **M.S.** in Computer Science, May 2009
-  - [Graduate courses]({% link _pages/course.md %})
+  - [Graduate courses]({% link _pages/courses.md %})
 - **Sogang University**, Seoul, Korea
   - B.S. in Computer Science, February 2007
 
