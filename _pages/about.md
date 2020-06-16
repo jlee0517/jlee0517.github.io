@@ -38,7 +38,7 @@ Work Experience
 
 Publications
 ======
-1. **Jaekyu Lee**, Dong Hyuk Woo, Hyesoon Kim, and Mani Azimi, ["GREEN Cache: Exploiting the Disciplined Memory Model of OpenCL on GPUs"](https://ieeexplore.ieee.org/document/7018047), In IEEE Transactions on Computers (TC), Volume: 64, Issue: 11, Nov. 1 2015</li>
+1. **Jaekyu Lee**, Dong Hyuk Woo, Hyesoon Kim, and Mani Azimi, ["GREEN Cache: Exploiting the Disciplined Memory Model of OpenCL on GPUs"](https://ieeexplore.ieee.org/document/7018047), In IEEE Transactions on Computers (TC), Volume: 64, Issue: 11, Nov. 1 2015 [test](_publications/taco_final.pdf)
 1. **Jaekyu Lee**, Si Li, Hyesoon Kim, and Sudhakar Yalamanchili, ["Design Space Exploration of On-chip Ring Interconnection for a CPU-GPU Heterogeneous Architecture"](https://www.sciencedirect.com/science/article/abs/pii/S0743731513001524?via%3Dihub), In Journal of Parallel and Distributed Computing (JPDC), Vol. 73, Issue 12, pp. 1525-1538, December 2013
 1. **Jaekyu Lee**, Si Li, Hyesoon Kim, and Sudhakar Yalamanchili, ["Adaptive Virtual Channel Partitioning for Network-on-Chip in Heterogeneous Architectures"](https://dl.acm.org/doi/10.1145/2504906), In ACM Transactions on Design Automation of Electronic Systems (TODAES), Vol. 18, No. 4, pp.48:1-48:28, October 2013
 1. Jaewoong Sim, **Jaekyu Lee**, Moinnuddin Qureshi, and Hyesoon Kim, ["FLEXclusion: Balancing Cache Capacity and On-Chip Traffic with Flexible Exclusion"](https://ieeexplore.ieee.org/document/6237028), In Proc. of the 39th Int'l Symp. on Computer Architecture (ISCA-39), Portland, OR, June, 2012 (acceptance rate 18% (47/262))
